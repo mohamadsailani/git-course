@@ -1,0 +1,1 @@
+This is text files for pratice the git command and learn how to add a file in git repo
